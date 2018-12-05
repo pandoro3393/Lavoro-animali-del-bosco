@@ -1,0 +1,15 @@
+.my-class {
+  background-color: green;
+  color: red;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+}
+.mia-classe {
+  font-size: 20px;
+  background-image: url(../images/sofs-logo.jpg);
+
+  margin: 10px 0 0 0;
+  margin-top: 10px;
+  padding: 10px 5px 3px 10px;
+}
+
